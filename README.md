@@ -3,24 +3,25 @@
 This is a simple Django-based TODO list web application that allows users to add, view, and remove tasks. The project structure and essential code snippets are provided below.
 
 ## Project Structure
-
+```
 todo_site/
 ├── manage.py
 ├── todo_site/
-│ ├── init.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ ├── wsgi.py
+│   ├── init.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
 └── todo/
-├── init.py
-├── admin.py
-├── apps.py
-├── forms.py
-├── migrations/
-├── models.py
-├── tests.py
-└── views.py
+    ├── init.py
+    ├── admin.py
+    ├── apps.py
+    ├── forms.py
+    ├── migrations/
+    ├── models.py
+    ├── tests.py
+    └── views.py
+```
 
 
 ## Setup Instructions
